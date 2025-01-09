@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.pranav2087.app1"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.pranav2087.app1"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
